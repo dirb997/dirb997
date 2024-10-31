@@ -15,7 +15,7 @@ I'm a Software Engineering student and dedicated self-learner of programming. My
 
 I’m expanding my knowledge in server-side development and working on building responsive, efficient applications.
 
-## Languages
+## 💻 Most used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirb997&layout=compact&theme=radical)
 
@@ -26,4 +26,4 @@ I’m expanding my knowledge in server-side development and working on building 
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png)] [Diego Berlanga](https://linkedin.com/in/juan-diego-ruiz-berlanga)
+・![Diego Berlanga](https://linkedin.com/in/juan-diego-ruiz-berlanga)
