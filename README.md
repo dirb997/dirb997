@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21565
-Fork on GitHub6840
 <h1 align="center">Hi 👋, My name is Juan Diego Ruiz</h1>
 <h3 align="center">A Junior Software developer working part-time while Studying a CS degree.</h3>
 
