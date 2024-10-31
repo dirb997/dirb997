@@ -15,9 +15,11 @@ I'm a Software Engineering student and dedicated self-learner of programming. My
 
 I’m expanding my knowledge in server-side development and working on building responsive, efficient applications.
 
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=radical)
-
 
 ## 📬 Connect with Me
 
 - LinkedIn: [Diego Berlanga](https://linkedin.com/in/juan-diego-ruiz-berlanga)
+
+## Stats
+
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=radical)
