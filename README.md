@@ -20,6 +20,11 @@ I’m expanding my knowledge in server-side development and working on building 
 
 - LinkedIn: [Diego Berlanga](https://linkedin.com/in/juan-diego-ruiz-berlanga)
 
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirb997&layout=compact&theme=radical)
+
+
 ## Stats
 
 ![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=radical)
