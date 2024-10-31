@@ -15,9 +15,13 @@ I'm a Software Engineering student and dedicated self-learner of programming. My
 
 I’m expanding my knowledge in server-side development and working on building responsive, efficient applications.
 
-## Languages                                                                                                            ## Stats
+## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirb997&layout=compact&theme=radical)       ![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirb997&layout=compact&theme=radical)
+
+## Stats
+
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=radical)
 
 
 ## 📬 Connect with Me
