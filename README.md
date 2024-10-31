@@ -19,11 +19,11 @@ I’m expanding my knowledge in server-side development and working on building 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirb997&layout=compact&theme=radical)
 
-## Stats
+## 📊 Stats
 
 ![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=radical)
 
 
 ## 📬 Connect with Me
 
-- LinkedIn: [Diego Berlanga](https://linkedin.com/in/juan-diego-ruiz-berlanga)
+[![LinkedIn](https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png)] [Diego Berlanga](https://linkedin.com/in/juan-diego-ruiz-berlanga)
