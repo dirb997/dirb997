@@ -19,12 +19,10 @@ I'm currently living and working in Japan.
 I’m expanding my knowledge in server-side development and working on building responsive, efficient applications.
 
 ## 💻 Most used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirb997&layout=compact&theme=radical)
 
 ## 📊 Stats
-
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=radical)
+![Diego's GitHub Stats](https://streak-stats.demolab.com?user=dirb997&theme=tokyonight&short_numbers=true&card_width=500&hide_current_streak=true)
 
 
 ## 📬 Connect with Me
