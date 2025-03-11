@@ -33,7 +33,7 @@ I’m expanding my knowledge in server-side development and working on building 
 </p>
 
 ## 📊 Stats
-![Diego's GitHub Stats](https://streak-stats.demolab.com?user=dirb997&theme=tokyonight&short_numbers=true&card_width=500&hide_current_streak=true)
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=tokyonight)
 
 
 ## 📬 Connect with Me
