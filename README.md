@@ -15,7 +15,7 @@ I’m expanding my knowledge in server-side development and working on building 
 
 ## 🛠 Tech Stack
 <p>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+  <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
