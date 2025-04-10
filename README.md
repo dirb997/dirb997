@@ -21,7 +21,7 @@ I’m expanding my knowledge in server-side development and working on building 
   <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
   <br />
   <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21~bgwhite.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
   <br />
