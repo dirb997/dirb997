@@ -8,6 +8,7 @@ I'm currently living and working in Japan.
   - **[User Profile Management Application](https://github.com/dirb997/xcode_dashboard_frontend)**: Application based in Swift and NodeJS to create, manage and delete user profiles.
   - **[Chat Bot with GUI](https://github.com/dirb997/ai-chat-tool-2025)**: GUI application designed to interact with the DeepSeek AI API.
   - **[WeatherApp](https://github.com/dirb997/weatherApp)**: A JavaScript app leveraging OpenWeather API.
+  - **[Weekly menu builder powered by AI](https://github.com/dirb997/family-menu-ai)**: AI powered weekly menu builder.
 
 ## 🌱 Ongoing Learning
 
