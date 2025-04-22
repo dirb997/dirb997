@@ -1,4 +1,4 @@
-# Hello, I'm Diego Berlanga 👋
+# Hello, I'm Juan Diego 👋
 
 I'm a Software Engineering student and dedicated self-learner of programming. My work focuses on creating useful applications and refining my technical skills. 
 I'm currently living and working in Japan.
