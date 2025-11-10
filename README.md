@@ -1,7 +1,7 @@
 # Hello, I'm Juan Diego 👋
 
 I'm a Software Engineering student and dedicated self-learner of programming. My work focuses on creating useful applications and refining my technical skills. 
-I'm currently living and working in Japan.
+I'm currently living and working in Valencia, Spain.
 
 ## 💻 Projects
   - **[PHP User Management System](https://github.com/dirb997/php_users_form)**: A basic PHP-driven user registration and login system.
