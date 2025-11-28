@@ -29,7 +29,10 @@ I’m expanding my knowledge in server-side development and working on building 
   <img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21~bgwhite.svg">
   <br />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
 </p>
 
 ## 📊 Stats
