@@ -33,6 +33,7 @@ I’m expanding my knowledge in server-side development and working on building 
   <br />
   <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 </p>
 
 ## 📊 Stats
