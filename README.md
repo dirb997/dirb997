@@ -8,8 +8,8 @@ I'm currently living and working in Valencia, Spain.
   - **[PHP User Management System](https://github.com/dirb997/php_users_form)**: A basic PHP-driven user registration and login system.
   - **[User Profile Management Application](https://github.com/dirb997/xcode_dashboard_frontend)**: Application based in Swift and NodeJS to create, manage and delete user profiles.
   - **[Chat Bot with GUI](https://github.com/dirb997/ai-chat-tool-2025)**: GUI application designed to interact with the DeepSeek AI API.
-  - **[WeatherApp](https://github.com/dirb997/weatherApp)**: A JavaScript app leveraging OpenWeather API.
   - **[Weekly menu builder powered by AI](https://github.com/dirb997/family-menu-ai)**: AI powered weekly menu builder.
+  - **[Device management system](https://github.com/dirb997/device-manager-front)**: Device management application that controls the devices connected to the comuputer.
 
 ## 🌱 Ongoing Learning
 
