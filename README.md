@@ -38,8 +38,7 @@ I’m expanding my knowledge in server-side development and working on building 
 </p>
 
 ## 📊 Stats
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dirb997&show_icons=true&theme=tokyonight)
-
+![Diego's GitHub Stats](https://github-stats-extended.vercel.app/api?username=dirb997&theme=radical)
 
 ## 📬 Connect with Me
 
