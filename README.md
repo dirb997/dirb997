@@ -1,13 +1,10 @@
 # Hello, I'm Juan Diego 👋
-
-I'm a Fullstack Engineer dedicated to obtain knowledge of software development and computing. 
-My work focuses on creating useful applications and refining my technical skills. 
-I'm currently living and working in Valencia, Spain.
+I'm a **Fullstack Engineer** based in **Valencia, Spain**. I build user-focused web, mobile, and CLI applications while continuously sharpening my architecture and systems engineering skills.
 
 ## 💻 Projects
   - **[PHP User Management System](https://github.com/dirb997/php_users_form)**: A basic PHP-driven user registration and login system.
-  - **[User Profile Management Application](https://github.com/dirb997/xcode_dashboard_frontend)**: Application based in Swift and NodeJS to create, manage and delete user profiles.
-  - **[Chat Bot with GUI](https://github.com/dirb997/ai-chat-tool-2025)**: GUI application designed to interact with the DeepSeek AI API.
+  - **[User Profile Management Dashboard](https://github.com/dirb997/xcode_dashboard_frontend)**: Cross-platform user management system for creating, updating, and removing profile records.
+  - **[File search and delete tool - CLI](https://github.com/dirb997/file_search_delete)**: Interactive Python CLI utility featuring recursive system search, custom filtering, and safe trash bin recovery.
   - **[Weekly menu builder powered by AI](https://github.com/dirb997/family-menu-ai)**: AI powered weekly menu builder.
   - **[Device management system](https://github.com/dirb997/device-manager-front)**: Device management application that controls the devices connected to the comuputer.
 
