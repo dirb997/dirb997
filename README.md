@@ -8,10 +8,6 @@ I'm a **Fullstack Engineer** based in **Valencia, Spain**. I build user-focused 
   - **[Weekly menu builder powered by AI](https://github.com/dirb997/family-menu-ai)**: AI powered weekly menu builder.
   - **[Device management system](https://github.com/dirb997/device-manager-front)**: Device management application that controls the devices connected to the comuputer.
 
-## 🌱 Ongoing Learning
-
-I’m expanding my knowledge in server-side development and working on building responsive, efficient applications.
-
 ## 🛠 Tech Stack
 <p>
   <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
@@ -38,11 +34,6 @@ I’m expanding my knowledge in server-side development and working on building 
 ![Diego's GitHub Stats](https://github-stats-extended.vercel.app/api?username=dirb997&theme=radical)
 
 ## 📬 Connect with Me
-
-<a href="https://www.linkedin.com/in/juan-diego-ruiz-berlanga-795701372/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/juan-diego-ruiz-berlanga-795701372/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
